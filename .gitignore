@@ -1,0 +1,8 @@
+## Excluded directories from git tracking
+
+# Modules responsible for code execution
+node_modules
+
+# Linkedin User session, cookies & profile Hijacking
+user_session
+
